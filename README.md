@@ -1,4 +1,5 @@
 # javaweb
+<<<<<<< HEAD
 This application was generated using JHipster 4.0.2, you can find documentation and help at [https://jhipster.github.io/documentation-archive/v4.0.2](https://jhipster.github.io/documentation-archive/v4.0.2).
 
 ## Development
@@ -146,3 +147,6 @@ To set up a CI environment, consult the [Setting up Continuous Integration][] pa
 [Protractor]: https://angular.github.io/protractor/
 [Leaflet]: http://leafletjs.com/
 [DefinitelyTyped]: http://definitelytyped.org/
+=======
+Hello it's me
+>>>>>>> branch 'master' of https://github.com/choucou10/javaweb
